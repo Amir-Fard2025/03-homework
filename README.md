@@ -12,5 +12,5 @@ process:
 3- draw the flowchart(layout of the project) to simplify the process. this flowchart contains inputs(prompt), the body which consists of two main functions and the output (eventlistener)
 4- define the first structure of the code using two main functions, generator and reader in script.js
 5- develop the code, add check lines for right type of characters
-6- control the code if the wrong input will result in collaps
+6- control the code if the wrong input will result in collapse
 7- add, commit push to github
